@@ -1,0 +1,14 @@
+```
+pandas==2.2.2
+numpy==2.0.2
+lightfm==1.17
+scikit-learn==1.6.1
+scipy==1.15.3
+flask==3.1.1
+pyngrok==7.2.0
+sqlalchemy==2.0.32
+pyodbc==5.2.0
+apscheduler==3.10.4
+tqdm==4.66.5
+sentence-transformers==3.1.1
+```

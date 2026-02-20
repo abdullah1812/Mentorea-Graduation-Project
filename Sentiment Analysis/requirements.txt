@@ -1,4 +1,0 @@
-Flask==2.3.3 
-transformers==4.38.2 
-langdetect==1.0.9
-gunicorn==21.2.0

@@ -30,7 +30,7 @@ $ pip install -r requirements.txt
 $ cp .env.example .env
 ```
 
-Set your environment variables in the `.env` file. Like `GROQ_API_KEY` value.
+The environment variables is for config and secret variable Like `API_KEY`.
 
 ### Sentiment Analysis API
 - Supports Arabic and English with BERT-based models.

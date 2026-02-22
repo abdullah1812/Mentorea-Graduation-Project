@@ -35,8 +35,8 @@ The environment variables is for config and secret variable Like `API_KEY`.
 ### Sentiment Analysis API
 - Supports Arabic and English with BERT-based models.
 - Fine Tunning Models on a real data.[Fine_Tunning_Code](https://github.com/abdullah1812/Fine-Tunning-BERT-for-Sentiment-Analysis)
-- Utilizes `MARBERT` for Arabic and `distilbert` for English.
-- Automatically detects input language using `langdetect`.
+- Utilizes `MARBERT` for Arabic and `Distilbert` for English.
+- Automatically detects input language using `re library`.
 - Maps sentiment to a 0–100 scale for standardized evaluation.
 
 
@@ -47,5 +47,4 @@ The environment variables is for config and secret variable Like `API_KEY`.
 - Supports up to 5MB PDF files with secure handling.
 
 
-___
 ## **Mentorea Team**

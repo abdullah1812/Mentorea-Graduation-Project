@@ -32,5 +32,3 @@ class SentimentAnalysisController(BaseController):
         
         return value, model_used, sentiment_values
     
-
-    

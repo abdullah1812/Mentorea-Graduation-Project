@@ -32,4 +32,8 @@ class SentimentAnalysis:
 
         return result, model_used
 
+<<<<<<< HEAD
 sentiment_service = SentimentAnalysis()
+=======
+sentiment_service = SentimentAnalysis()
+>>>>>>> eec3e76f0a1621ebdf6a192ee1b53f3e149e5f10

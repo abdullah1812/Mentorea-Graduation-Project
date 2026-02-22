@@ -31,4 +31,8 @@ class SentimentAnalysisController(BaseController):
         value = self.map_sentiment_to_value(sentiment_values)
         
         return value, model_used, sentiment_values
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> eec3e76f0a1621ebdf6a192ee1b53f3e149e5f10
